@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@fontsource-variable/recursive": "^5.0.2",
+    "bootstrap-icons": "^1.10.5",
+    "hugo-bin": "^0.106.1",
+    "inter-ui": "^3.19.3",
+    "sass-mq": "^6.0.0"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "prettier": "^2.8.8"
+  },
+  "scripts": {
+    "start": "hugo server -D -w",
+    "build": "hugo",
+    "prepare": "node node_modules/husky/lib/bin.js install"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false
+  },
+  "lint-staged": {
+    "*.{ts,js,html,css,json,md}": "prettier --write"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": ".husky/pre-commit"
+    }
+  }
+}

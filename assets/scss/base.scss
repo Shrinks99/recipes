@@ -1,0 +1,25 @@
+//Sass MQ configuration
+$mq-breakpoints: (
+    mobile:  414px,
+    tablet:  768px,
+    desktop: 1128px,
+    ultrawide: 1400px
+);
+
+// Apply a natural box layout model to all elements, but allowing components to change
+html {
+	box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+*, *:before, *:after {
+	  box-sizing: inherit;
+}
+body, ul {
+ margin: 0;
+ padding: 0;
+}
+
+//Default font and background
+body {
+    font-family: 'Inter var';
+}
