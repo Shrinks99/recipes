@@ -5,6 +5,7 @@ date: 2023-12-27
 author: Donna Acal
 prepTime:
 cookTime: 40m
+vegetarian: true
 ---
 
 ### Ingredients

@@ -5,6 +5,7 @@ date: 2023-12-26
 author: Donna Hay
 prepTime: 10m
 cookTime: 40m
+vegetarian: false
 ---
 
 ### Ingredients
