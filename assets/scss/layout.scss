@@ -1,0 +1,25 @@
+.index-list {
+    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+    @include mq($from: mobile, $until: tablet) {
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+      }
+
+    h2 {
+        margin-bottom: 1rem;
+    }
+
+    h3 {
+        margin-bottom: 0.25rem;
+    }
+}
+
+.index-sectionlist {
+    margin-bottom: 1rem;
+    ul {
+        list-style-type: none;
+    }
+}

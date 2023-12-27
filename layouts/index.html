@@ -3,7 +3,23 @@
 {{ partial "partials/head.html" . }}
 <body>
   {{ partial "partials/nav.html" . }}
-  <h1>Here's some stuff!</h1>
+  <section class="index-list">
+    <h2>Categories</h2>
+    <div>
+      {{ range .Site.Sections }}
+      <div class="index-sectionlist">
+        <h3>{{ .LinkTitle }}</h3>
+        <ul>
+          {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+  </section>
 </body>
 
 </html>
