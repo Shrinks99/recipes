@@ -3,7 +3,7 @@
     "@fontsource-variable/recursive": "^5.0.2",
     "bootstrap-icons": "^1.10.5",
     "hugo-bin": "^0.106.1",
-    "inter-ui": "^3.19.3",
+    "inter-ui": "^4.0.1",
     "sass-mq": "^6.0.0"
   },
   "devDependencies": {

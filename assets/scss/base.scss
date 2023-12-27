@@ -38,6 +38,7 @@ body, ul, h1, h2, h3 {
 //Default font and background
 body {
     font-family: $bodyfont;
+    font-feature-settings: "frac", "case", "calt", "ss07", "ss08";
 }
 
 .shrink-0 {
