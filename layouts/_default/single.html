@@ -10,6 +10,28 @@
                     {{ if .Page.Params.author }}
                     <h2><span style="color:white;">By: </span>{{ .Page.Params.author}}</h2>
                     {{ end }}
+                    <div class="recipepage-info-stats">
+                        {{ if .Page.Params.prepTime }}
+                        <div class="recipepage-stat preptime">
+                            <svg class="shrink-0" width="16" height="16" fill="#ffffff">
+                                <use xlink:href="../../img/icons/bootstrap/bootstrap-icons.svg#clock-fill" />
+                            </svg>
+                            <div>
+                                Prep Time: {{ .Page.Params.prepTime}}
+                            </div>
+                        </div>
+                        {{ end }}
+                        {{ if .Page.Params.cookTime }}
+                        <div class="recipepage-stat cooktime">
+                            <svg class="shrink-0" width="16" height="16" fill="#ffffff">
+                                <use xlink:href="../../img/icons/bootstrap/bootstrap-icons.svg#stopwatch-fill" />
+                            </svg>
+                            <div>
+                                Cook Time: {{ .Page.Params.cookTime}}
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
                 </div>
                 {{ .Content }}
             </article>

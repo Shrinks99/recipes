@@ -3,13 +3,13 @@ title:  "Chicken Baked with Olives, Lemons, and Capers"
 category: "mains"
 date: 2023-12-26
 author: Donna Hay
-prep-time: 10
-cooking-time: 40
+prepTime: 10m
+cookTime: 40m
 ---
 
 ### Ingredients
 
-- 200 g, (6.5 oz) cherry or grape tomatoes, halved
+- 200g (6.5oz) cherry or grape tomatoes, halved
 - 1/3 cup green pitted olives
 - 2 tsp grated lemon rind
 - 2 tbsp capers, rinsed

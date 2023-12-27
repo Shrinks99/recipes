@@ -39,3 +39,7 @@ body, ul, h1, h2, h3 {
 body {
     font-family: $bodyfont;
 }
+
+.shrink-0 {
+  flex-shrink: 0;
+}

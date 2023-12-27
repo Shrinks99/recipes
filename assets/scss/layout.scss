@@ -29,6 +29,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    margin-bottom: 4rem;
 }
 
 .recipepage-info {
@@ -49,8 +50,43 @@
     }
 }
 
+.recipepage-info-stats {
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+
+    @include mq($from: mobile, $until: tablet) {
+        flex-direction: column;
+      }
+}
+
+.recipepage-stat {
+    border: 0.125rem solid white;
+    padding: 0.25rem 0.5rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    width: fit-content;
+    color: white;
+    font-weight: 500;
+
+    @include mq($from: mobile, $until: tablet) {
+        width: 100%;
+      }
+}
+
+.preptime {
+    background-color: $wgcblue;
+}
+
+.cooktime {
+    background-color: $wgcpink;
+}
+
 .recipepage-recipe {
-    // background-color: $wgcpink;
     width: 100%;
     max-width: 60rem;
     margin: 0 1rem;
