@@ -21,7 +21,7 @@ cookTime: 40m
 
 ### Instructions
 
-Preheat oven to 425F.
+Preheat oven to 425°F.
 
 1. Combine the olives, lemon rind, capers, olive oil, tomatoes, black pepper, and salt into a bowl.
 2. Spoon 1/2 of the mixture onto a baking dish.
