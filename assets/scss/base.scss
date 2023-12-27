@@ -10,6 +10,9 @@ $bodyfont: 'Inter var', 'Helvetica', sans-serif;
 $wgcblue: #008BCC;
 $wgcorange: #E69718;
 $wgcpink: #CD0067;
+$wgcgray: #363636;
+$wgc-shadow-45: -0.25rem 0.25rem 0 0 white,-0.5rem 0.5rem 0 0 black;
+$wgc-shadow-90: 0 0.25rem 0 0 white,0 0.5rem 0 0 black;
 
 //Sass MQ configuration
 $mq-breakpoints: (

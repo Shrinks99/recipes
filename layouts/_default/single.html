@@ -5,6 +5,12 @@
         {{ partial "partials/nav.html" . }}
         <div class="recipepage-wrapper">
             <article class="recipepage-recipe">
+                <div class="recipepage-info">
+                    <h1>{{ .Page.Params.title}}</h1>
+                    {{ if .Page.Params.author }}
+                    <h2><span style="color:white;">By: </span>{{ .Page.Params.author}}</h2>
+                    {{ end }}
+                </div>
                 {{ .Content }}
             </article>
         </div>

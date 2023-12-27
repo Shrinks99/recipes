@@ -31,6 +31,24 @@
     justify-content: center;
 }
 
+.recipepage-info {
+    border: 0.25rem solid black;
+    padding: 2rem;
+    background-color: $wgcgray;
+    margin-bottom: 2rem;
+    box-shadow: -0.25rem 0.25rem 0 0 white,-0.5rem 0.5rem 0 0 black;
+
+    h1 {
+        font-size: 1.5rem;
+        color: white;
+    }
+
+    h2 {
+        font-size: 1rem;
+        color: $wgcorange;
+    }
+}
+
 .recipepage-recipe {
     // background-color: $wgcpink;
     width: 100%;
@@ -38,7 +56,7 @@
     margin: 0 1rem;
     margin-top: 2rem;
 
-    h2, h3, h4 {
+    h1, h2, h3, h4 {
         font-family: $titlefont;
         margin-bottom: 0.5rem;
     }
