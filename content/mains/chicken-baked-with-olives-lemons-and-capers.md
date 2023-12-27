@@ -7,7 +7,7 @@ prep-time: 10
 cooking-time: 40
 ---
 
-## Ingredients
+### Ingredients
 
 - 200 g, (6.5 oz) cherry or grape tomatoes, halved
 - 1/3 cup green pitted olives
@@ -17,7 +17,9 @@ cooking-time: 40
 - cracked black pepper and a small pinch of salt
 - 2 chicken breast fillets
 
-## Instructions
+---
+
+### Instructions
 
 Preheat oven to 425F.
 
@@ -28,6 +30,6 @@ Preheat oven to 425F.
 5. Place in the oven for 20 min.
 6. Flip chicken and cook for another 20 min, or until chicken is cooked.
 
-## Comment
+### Comments
 
 We like this with baked potatoes and a salad.

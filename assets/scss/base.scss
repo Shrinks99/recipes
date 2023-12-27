@@ -1,3 +1,16 @@
+@font-face {
+  font-family: 'Unison Pro';
+  font-weight: 900;
+  src: url("https://f005.backblazeb2.com/file/wilkinson-graphics-corp-public/UnisonProBold.woff2");
+}
+
+// Variables
+$titlefont: 'Unison Pro', 'Eurostile', 'Helvetica', 'Inter var', sans-serif;
+$bodyfont: 'Inter var', 'Helvetica', sans-serif;
+$wgcblue: #008BCC;
+$wgcorange: #E69718;
+$wgcpink: #CD0067;
+
 //Sass MQ configuration
 $mq-breakpoints: (
     mobile:  414px,
@@ -21,5 +34,5 @@ body, ul, h1, h2, h3 {
 
 //Default font and background
 body {
-    font-family: 'Inter var';
+    font-family: $bodyfont;
 }

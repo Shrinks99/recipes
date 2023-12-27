@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 614 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-812.769,-1195.02)">
+        <g transform="matrix(1.02624,0,0,1.02624,360.973,501.667)">
+            <text x="598.345px" y="705.598px" style="font-family:'UnisonProBold', 'Unison Pro';font-weight:700;font-size:41.667px;">Foodstuff</text>
+            <text x="598.345px" y="747.265px" style="font-family:'UnisonProBold', 'Unison Pro';font-weight:700;font-size:41.667px;">Recipe Index</text>
+            <g transform="matrix(41.6667,0,0,41.6667,858.262,788.931)">
+            </g>
+            <text x="598.345px" y="788.931px" style="font-family:'UnisonProBold', 'Unison Pro';font-weight:700;font-size:41.667px;">division</text>
+        </g>
+        <g transform="matrix(4.16667,0,0,4.16667,876.886,1202.99)">
+            <path d="M14.018,24.28L0,24.28C-0.893,24.28 -1.718,23.804 -2.165,23.031L-13.297,3.749C-14.259,2.083 -13.056,0 -11.132,0L14.018,-0L14.018,24.28Z" style="fill:rgb(230,151,24);"/>
+        </g>
+        <g transform="matrix(4.16667,0,0,4.16667,876.886,1202.99)">
+            <path d="M0,26.03C-1.518,26.03 -2.92,25.221 -3.68,23.907L-14.812,4.624C-16.448,1.792 -14.403,-1.75 -11.132,-1.75L15.768,-1.75L15.768,26.03L0,26.03ZM12.268,22.53C12.268,22.53 12.268,1.75 12.268,1.75L-11.132,1.75C-11.709,1.75 -12.07,2.374 -11.781,2.874L-0.65,22.155C-0.516,22.387 -0.268,22.53 0,22.53L12.268,22.53Z" style="fill:rgb(3,4,5);"/>
+        </g>
+    </g>
+</svg>

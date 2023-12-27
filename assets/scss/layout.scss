@@ -23,3 +23,55 @@
         list-style-type: none;
     }
 }
+
+
+.recipepage-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.recipepage-recipe {
+    // background-color: $wgcpink;
+    width: 100%;
+    max-width: 60rem;
+    margin: 0 1rem;
+    margin-top: 2rem;
+
+    h2, h3, h4 {
+        font-family: $titlefont;
+        margin-bottom: 0.5rem;
+    }
+
+    ul, ol {
+        margin-left: 2.4rem;
+        padding-left: 0;
+        margin-bottom: 2rem;
+        list-style-position: inside;
+    }
+
+    li {
+        margin-bottom: 0.25rem;
+    }
+
+    li::marker{
+        color: $wgcpink;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0.5rem;
+    }
+
+    hr {
+        border-bottom: 0.25rem solid black;
+        margin-top: 0;
+        margin-bottom: 2rem;
+    }
+
+    blockquote {
+        border-left: 0.25rem solid $wgcpink;
+        margin-left: 1rem;
+        padding-left: 1rem;
+    }
+}

@@ -9,6 +9,8 @@ module:
       target: static/img/icons/bootstrap
       excludeFiles: '**'
       includeFiles: bootstrap-icons.svg
+    - source: assets/img
+      target: static/img
 build:
   processing:
     sass:

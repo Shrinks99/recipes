@@ -3,9 +3,12 @@
     {{ partial "partials/head.html" . }}
     <body>
         {{ partial "partials/nav.html" . }}
-        <article>
-            {{ .Content }}
-        </article>
+        <div class="recipepage-wrapper">
+            <article class="recipepage-recipe">
+                {{ .Content }}
+            </article>
+        </div>
+        
     </body>
     
 </html>
