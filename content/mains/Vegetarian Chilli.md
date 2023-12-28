@@ -66,4 +66,4 @@ vegetarian: true
 
 ### Comments
 
-Ladle into bowls and serve with a sliced baguette.
+Ladle into bowels and serve with a sliced baguette.
