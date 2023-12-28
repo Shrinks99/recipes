@@ -34,7 +34,6 @@ vegetarian: true
 - 2 tablespoons of balsamic vinegar
 - 1 tablespoon of Dijon mustard
 - 1 teaspoon of oregano
-- 1 teaspoon of oregano
 - 1 teaspoon of cumin 1 heaping tablespoon of chili powder
 - 1/4 teaspoon of cayenne pepper
 - Fresh ground black pepper
@@ -67,4 +66,4 @@ vegetarian: true
 
 ### Comments
 
-Ladle into bowels and serve with a sliced baguette.
+Ladle into bowls and serve with a sliced baguette.
