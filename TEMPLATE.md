@@ -1,7 +1,7 @@
 ---
 title:  ""
 category: ""
-date: 2023-12-27
+date: YYYY-MM-DD
 author: ""
 prepTime: ""
 cookTime: ""
