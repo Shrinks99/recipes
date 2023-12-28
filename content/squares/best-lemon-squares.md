@@ -39,6 +39,28 @@ Preheat oven to 350°F
 #### Wet
 
 1. In a separate bowl, blend the sweetened and condensed milk with the lemon juice and lemon rind.
-2.
+2. Pour the mixture onto the crumb base layer and spread evenly. 
+3. Sprinkle remaining crumbs to form the top layer. 
+4. Bake for 25-30min or until just bubbling slightly at the edges.
 
 ### Comments
+
+This recipe is highly cherished and has won over every family member over four generations. Bunny Lawrence adopted it and passed it down to her daughter Barbara (Michel) and family. Barbara's daughter Robin took over production at a very young age and its a wonder anything made it into the pan. Barbara's son Justin introduced it to his family and his expert baker wife Sabrina created a five layer version!  
+
+### Historical Record
+
+Gail Borden introduced Eagle Brand in 1856 to fight food poisoning and other illnesses related to lack of refrigeration and preservation techniques. His discovery provided milk that would remain safe and wholesome.
+
+The Civil War helped Eagle Brand become a household name. 
+
+In 1931, a Borden Kitchens’ promotion offered homemakers $25 for their original recipes. The rules called for “recipes in which Eagle Brand Sweetened Condensed Milk makes cooking quicker, easier, and surer.” Over 80,000 recipes were submitted. Quick and easy foolproof recipes have been a key benefit of Eagle Brand® Sweetened Condensed Milk through the decades.
+
+This recipe for Lemon Squares likely came from that initiative. 
+
+Eagle Brand Sweetened Condensed Milk continued to grow in popularity, gaining promotional assistance from Elsie®, the Borden® Cow. Elsie® made her debut in national consumer magazines in 1938 and starred in Borden’s exhibit at the New York World’s Fair in 1939.
+
+By the 1960s, Elsie® had become America’s best-known spokes-cow—a recognized symbol of wholesomeness and quality.
+
+https://www.eaglebrand.com/eagle-brand-history
+
+As a teenager, Barbara had a summer job at the Canadian National Exhibition, CNE, in Toronto. Her job was to work with Elsie the Cow as she engaged with the public. 
