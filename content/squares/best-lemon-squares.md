@@ -61,6 +61,6 @@ Eagle Brand Sweetened Condensed Milk continued to grow in popularity, gaining pr
 
 By the 1960s, Elsie® had become America’s best-known spokes-cow—a recognized symbol of wholesomeness and quality.
 
-https://www.eaglebrand.com/eagle-brand-history
+For more information, see the [Eagle Brand Company history](https://www.eaglebrand.com/eagle-brand-history) page.
 
 As a teenager, Barbara had a summer job at the Canadian National Exhibition, CNE, in Toronto. Her job was to work with Elsie the Cow as she engaged with the public. 
