@@ -49,17 +49,15 @@ This recipe is highly cherished and has won over every family member over four g
 
 ### Historical Record
 
-Gail Borden introduced Eagle Brand in 1856 to fight food poisoning and other illnesses related to lack of refrigeration and preservation techniques. His discovery provided milk that would remain safe and wholesome.
+> Gail Borden introduced Eagle Brand in 1856 to fight food poisoning and other illnesses related to lack of refrigeration and preservation techniques. His discovery provided milk that would remain safe and wholesome.
 
-The Civil War helped Eagle Brand become a household name.
+> The Civil War helped Eagle Brand become a household name.
 
-In 1931, a Borden Kitchens’ promotion offered homemakers $25 for their original recipes. The rules called for “recipes in which Eagle Brand Sweetened Condensed Milk makes cooking quicker, easier, and surer.” Over 80,000 recipes were submitted. Quick and easy foolproof recipes have been a key benefit of Eagle Brand® Sweetened Condensed Milk through the decades.
+> In 1931, a Borden Kitchens’ promotion offered homemakers $25 for their original recipes. The rules called for “recipes in which Eagle Brand Sweetened Condensed Milk makes cooking quicker, easier, and surer.” Over 80,000 recipes were submitted. Quick and easy foolproof recipes have been a key benefit of Eagle Brand® Sweetened Condensed Milk through the decades.
 
 This recipe for Lemon Squares likely came from that initiative.
 
-Eagle Brand Sweetened Condensed Milk continued to grow in popularity, gaining promotional assistance from Elsie®, the Borden® Cow. Elsie® made her debut in national consumer magazines in 1938 and starred in Borden’s exhibit at the New York World’s Fair in 1939.
-
-By the 1960s, Elsie® had become America’s best-known spokes-cow—a recognized symbol of wholesomeness and quality.
+> Eagle Brand Sweetened Condensed Milk continued to grow in popularity, gaining promotional assistance from Elsie®, the Borden® Cow. Elsie® made her debut in national consumer magazines in 1938 and starred in Borden’s exhibit at the New York World’s Fair in 1939. By the 1960s, Elsie® had become America’s best-known spokes-cow—a recognized symbol of wholesomeness and quality.
 
 For more information, see the [Eagle Brand Company history](https://www.eaglebrand.com/eagle-brand-history) page.
 
