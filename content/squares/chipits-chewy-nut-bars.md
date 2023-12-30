@@ -28,7 +28,7 @@ Preheat oven to 350°F
 
 1. In a sauce pan, melt margarine.
 2. Remove from heat. 
-3. Add sugar and vanilla and stir until well blended.
+3. Add sugar and vanilla and stir, beating well.
 4. Add eggs one at a time beating well together after each addition.
 5. Stir together, flour, baking powder and salt.
 6. Add to sauce pan and mix well.
