@@ -63,7 +63,15 @@ details.index-sectionlist[open] > summary {
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-bottom: 4rem;
+}
+
+.recipepage-returnbutton {
+    padding-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 100%;
+    max-width: 60rem;
+    color: $wgcblue;
 }
 
 .recipepage-info {
@@ -131,6 +139,7 @@ details.index-sectionlist[open] > summary {
     max-width: 60rem;
     margin: 0 1rem;
     margin-top: 2rem;
+    margin-bottom: 4rem;
 
     h1, h2, h3, h4 {
         font-family: $titlefont;
