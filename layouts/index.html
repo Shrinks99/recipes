@@ -11,9 +11,11 @@
         <summary>{{ .LinkTitle }} — {{ len .Pages.ByTitle }}</summary>
         <ul>
           {{ range .Pages.ByTitle }}
-          <li {{ if .Page.Params.vegetarian }} style="background-color: #32a500 !important;" {{end}}>
-            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-          </li>
+          <a href="{{ .RelPermalink }}">
+            <li {{ if .Page.Params.vegetarian }} style="background-color: #32a500 !important;" {{end}}>
+              {{ .LinkTitle }}
+            </li>
+          </a>
           {{ end }}
         </ul>
       </details>

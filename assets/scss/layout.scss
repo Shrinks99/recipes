@@ -33,16 +33,19 @@
         list-style-type: none;
         padding-left: 0;
     }
+    a {
+        text-decoration: none;
+    }
     li {
         width: calc(100% - 1.5rem);
         background-color: $wgcblue;
         margin-bottom: 0.25rem;
         padding: 0.5rem;
         border: 0.25rem solid black;
-        a {
-            color: white;
-            text-decoration: none;
-        }
+        color: white;
+    }
+    li:hover {
+        transform: scale(1.01);
     }
 }
 
