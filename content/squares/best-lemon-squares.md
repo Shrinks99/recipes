@@ -12,7 +12,7 @@ vegetarian: true
 
 #### Dry
 
-- 1 & 1/2cups graham cracker crumbs
+- 1 & 1/2 cups graham cracker crumbs
 - 1/2 cup melted butter (salted)
 - 1/3 cup brown sugar (packed) or 1/2 cup (not packed)
 - 1/4 teaspoon salted
@@ -34,14 +34,14 @@ Preheat oven to 350°F
 #### Dry
 
 1. In a bowl, mix all dry ingredients well.
-2. Spread 2/3 mixture in an 8x12 greased baking pan and pat down well on bottom of pan.
+2. Spread 2/3 mixture in an 8x12" greased baking pan and pat down well on bottom of pan.
 
 #### Wet
 
 1. In a separate bowl, blend the sweetened and condensed milk with the lemon juice and lemon rind.
 2. Pour the mixture onto the crumb base layer and spread evenly.
 3. Sprinkle remaining crumbs to form the top layer.
-4. Bake for 25-30min or until just bubbling slightly at the edges.
+4. Bake for 25-30 min or until just bubbling slightly at the edges.
 
 ### Comments
 
