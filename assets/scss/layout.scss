@@ -28,6 +28,7 @@
         border: $wgc-border;
         cursor: pointer;
         box-shadow: none;
+        user-select: none;
     }
     ul {
         list-style-type: none;
