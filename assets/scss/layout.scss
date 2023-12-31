@@ -72,6 +72,12 @@ details.index-sectionlist[open] > summary {
     width: 100%;
     max-width: 60rem;
     color: $wgcblue;
+    text-decoration: none;
+    transition-duration: 0.1s;
+}
+
+.recipepage-returnbutton:hover {
+    font-weight: 500;
 }
 
 .recipepage-info {
@@ -171,6 +177,14 @@ details.index-sectionlist[open] > summary {
         margin-top: 0;
         margin-bottom: 0.5rem;
         line-height: 1.4rem;
+    }
+
+    a {
+        color: $wgcblue;
+    }
+
+    a:hover {
+        text-underline-offset: 0.25rem;
     }
 
     hr {
