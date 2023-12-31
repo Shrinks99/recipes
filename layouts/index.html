@@ -8,10 +8,10 @@
     <div>
       {{ range .Sections.ByTitle }}
       <details class="index-sectionlist">
-        <summary>{{ .LinkTitle }}</summary>
+        <summary>{{ .LinkTitle }} — {{ len .Pages.ByTitle }}</summary>
         <ul>
           {{ range .Pages.ByTitle }}
-          <li>
+          <li {{ if .Page.Params.vegetarian }} style="background-color: #32a500 !important;" {{end}}>
             <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
           </li>
           {{ end }}

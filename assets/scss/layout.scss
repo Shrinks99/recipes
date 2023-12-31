@@ -1,3 +1,5 @@
+// Index Page
+
 .index-list {
     margin-top: 1rem;
     margin-left: 2rem;
@@ -9,22 +11,49 @@
       }
 
     h2 {
-        margin-bottom: 1rem;
-        font-family: $titlefont;
-    }
-
-    h3 {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
         font-family: $titlefont;
     }
 }
 
 .index-sectionlist {
+    width: 100%;
     margin-bottom: 1rem;
+
+    summary {
+        background-color: $wgcorange;
+        font-family: $titlefont;
+        padding: 0.5rem;
+        border: $wgc-border;
+        cursor: pointer;
+        box-shadow: none;
+    }
     ul {
         list-style-type: none;
+        padding-left: 0;
+    }
+    li {
+        width: calc(100% - 1.5rem);
+        background-color: $wgcblue;
+        margin-bottom: 0.25rem;
+        padding: 0.5rem;
+        border: 0.25rem solid black;
+        a {
+            color: white;
+            text-decoration: none;
+        }
     }
 }
 
+details.index-sectionlist[open] > summary {
+    position: relative;
+    box-shadow: $wgc-shadow-45;
+    bottom: 0.5rem;
+    left: 0.5rem;
+}
+
+// Recipe page
 
 .recipepage-wrapper {
     width: 100%;
