@@ -5,6 +5,8 @@ module:
   mounts:
     - source: node_modules/inter-ui
       target: static/fonts/inter-ui
+    - source: favicon.png
+      target: static/favicon.png
     - source: node_modules/bootstrap-icons/
       target: static/img/icons/bootstrap
       excludeFiles: '**'

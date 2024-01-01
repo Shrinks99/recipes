@@ -1,0 +1,29 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Foodstuff Archive</title>
+  <subtitle>A division of the Wilkinson Graphics Corporation</subtitle>
+  <link href="{{ .Site.BaseURL }}index.xml" rel="self" type="application/rss+xml"></link>
+  <id>https://wilkinson.graphics/recipes</id>
+  <author>
+    <name>Henry Wilkinson</name>
+  </author>
+  <updated>{{ .Date.Format "2006-01-02T15:04:05Z0700" | safeHTML }}</updated>
+  <generator>Hugo v{{ .Site.Hugo.Version }}</generator>
+  <icon>{{ .Site.BaseURL }}favicon.png</icon>
+  {{ range where .Site.RegularPages "Type" "not in" (slice "taxonomy" "taxonomies") }}
+  {{ if not .IsHome }}
+  <entry>
+    <title>{{ .Params.title }}</title>
+    <author>
+      <name>{{ .Params.author }}</name>
+    </author>
+    <updated>{{ .Params.date.Format "2006-01-02" }}</updated>
+    <id>{{ .Permalink }}</id>
+    <link href="{{ .Permalink}}"></link>
+    <content type="html">
+      {{ printf "<![CDATA[%s]]>" .Page.Content | safeHTML }}
+    </content>
+  </entry>
+  {{ end }}
+  {{ end }}
+</feed>
