@@ -38,6 +38,10 @@
         text-decoration: none;
     }
     li {
+        font-weight: 500;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         width: calc(100% - 1.5rem);
         background-color: $wgcblue;
         margin-bottom: 0.25rem;
