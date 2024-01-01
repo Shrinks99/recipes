@@ -1,4 +1,6 @@
-# Wilkinson Graphics Corporation Foodstuff Recipe Index Division
+# Wilkinson Graphics Corporation Foodstuff Archive Division
+
+Family recipes, now on the World Wide Web!
 
 ## Building for Development
 

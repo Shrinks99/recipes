@@ -21,3 +21,15 @@
     height: 2.5rem;
   }
 }
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logobox {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}

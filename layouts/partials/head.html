@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Recipes</title>
+  <title>{{ if .IsHome }}Wilkinson Graphics Corporation Foodstuff Archive Division{{ else }}{{ if .Page.Title }}{{ .Page.Title }}{{ end }}{{ end }}</title>
   {{ $options := dict
   "transpiler" "dartsass"
   "targetPath" "css/style.css"
@@ -10,4 +10,9 @@
   {{ with resources.Get "scss/style.scss" | toCSS $options | minify | fingerprint }}
   <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
   {{ end }}
+  <link rel="icon" type="image/x-icon" href="{{ .Site.BaseURL }}favicon.png">
+  <link rel="alternate"
+      type="application/rss+xml"
+      href="{{ .Site.BaseURL }}index.xml"
+      title="{{ .Site.Title }}">
 </head>
