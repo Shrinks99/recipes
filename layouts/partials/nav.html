@@ -4,5 +4,17 @@
       {{ $logoImg := "img/logo.svg" }}
       <img src="{{ $logoImg | relURL }}">
     </a>
+    <div class="nav-logobox">
+      <a href="https://github.com/Shrinks99/recipes" title="GitHub">
+        <svg width="24" height="24" fill="#ffffff">
+          <use xlink:href="img/icons/bootstrap/bootstrap-icons.svg#github" />
+        </svg>
+      </a>
+      <a href="{{ .Site.BaseURL }}index.xml" title="RSS Feed">
+        <svg width="24" height="24" fill="#ffffff">
+          <use xlink:href="img/icons/bootstrap/bootstrap-icons.svg#rss-fill" />
+        </svg>
+      </a>
+    </div>
   </div>
 </nav>
