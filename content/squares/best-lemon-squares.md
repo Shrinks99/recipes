@@ -15,7 +15,7 @@ vegetarian: true
 - 1 & 1/2 cups graham cracker crumbs
 - 1/2 cup melted butter (salted)
 - 1/3 cup brown sugar (packed) or 1/2 cup (not packed)
-- 1/4 teaspoon salted
+- 1/4 teaspoon salt
 - 3/4 cup flour
 - 1/2 teaspoon baking powder
 
