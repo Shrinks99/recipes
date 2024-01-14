@@ -10,6 +10,11 @@ In addition to that, you also need to have [Dart Sass](https://gohugo.io/hugo-pi
 
 For macOS, install Dart sass with `brew install sass/sass/sass`.  Install Yarn with `npm install --global yarn`.
 
-After downloading a copy of the repo, navigate to it with `cd` and run `yarn` in the project's root directory to download everything required.
+After downloading a copy of the repo, navigate to it with `cd`, eg: `cd /Users/Robin/Documents/GitHub/shrinks99/recipes`.
 
-Run `yarn start` to start Hugo on your local machine.  Navigate to [http://localhost:1313](http://localhost:1313/) and get started!
+> [!TIP]
+> After typing `cd` (the command we want to run to change the working directory) into the terminal, drag the project folder into the terminal window to get the full path!
+
+Once in the project's root directory, run `yarn` to download everything required.
+
+Run `hugo server` to start Hugo on your local machine.  Navigate to [http://localhost:1313](http://localhost:1313/) and get started!
