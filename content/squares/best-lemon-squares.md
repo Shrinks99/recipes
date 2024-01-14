@@ -10,18 +10,18 @@ vegetarian: true
 
 ### Ingredients
 
-#### Dry
+#### Crumble
 
 - 1 & 1/2 cups graham cracker crumbs
 - 1/2 cup melted butter (salted)
 - 1/3 cup brown sugar (packed) or 1/2 cup (not packed)
-- 1/4 teaspoon salted
+- 1/4 teaspoon salt
 - 3/4 cup flour
 - 1/2 teaspoon baking powder
 
-#### Wet
+#### Filling
 
-- 1 can Eagle Brand Sweetened and Condensed Milk
+- 1 300 ml can Eagle Brand Sweetened and Condensed Milk
 - 1/2 cup freshly squeezed lemon juice (1–2 lemons)
 - Grated lemon rind from one lemon
 
@@ -31,12 +31,12 @@ vegetarian: true
 
 Preheat oven to 350°F
 
-#### Dry
+#### Crumble
 
 1. In a bowl, mix all dry ingredients well.
-2. Spread 2/3 mixture in an 8x12" greased baking pan and pat down well on bottom of pan.
+2. Spread 2/3 mixture in an 8x12" greased baking pan and compress well into the bottom of the pan.
 
-#### Wet
+#### Filling
 
 1. In a separate bowl, blend the sweetened and condensed milk with the lemon juice and lemon rind.
 2. Pour the mixture onto the crumb base layer and spread evenly.
