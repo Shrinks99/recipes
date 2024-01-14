@@ -17,6 +17,6 @@ After downloading a copy of the repo, navigate to it with `cd`, eg: `cd /Users/R
 > [!TIP]
 > After typing `cd` (the command we want to run to change the working directory) into the terminal, drag the project folder into the terminal window to get the full path!
 
-Once in the project's root directory, run `yarn` to download everything required.
+If this is the first time setting up this project, run `yarn` to download everything required.
 
-Run `hugo server` to start Hugo on your local machine.  Navigate to [http://localhost:1313](http://localhost:1313/) and get started!
+If the project is already set up, run `hugo server` to start Hugo on your local machine.  Navigate to [http://localhost:1313](http://localhost:1313/) and get started!
