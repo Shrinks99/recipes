@@ -1,6 +1,6 @@
 ---
 title:  "Chocolate Lime Swirl"
-category: "Dessert"
+category: "dessert"
 date: 2023-12-31
 author: "Barbara Michel"
 prepTime: ""

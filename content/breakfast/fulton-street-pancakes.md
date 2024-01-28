@@ -3,8 +3,8 @@ title:  "Fulton Street Pancakes"
 category: "breakfast"
 date: 2024-01-27
 author: "Joan Simmonds"
-prepTime: "8"
-cookTime: "10"
+prepTime: "8m"
+cookTime: "10m"
 vegetarian: true
 ---
 
@@ -25,7 +25,6 @@ vegetarian: true
 - 2 tablespoons oil
 - Splash of vanilla
 
-
 ---
 
 ### Instructions
@@ -35,7 +34,6 @@ vegetarian: true
 3. Mix 1 into 2
 4. Put into pan at medium heat
 5. Flip when the batter bubbles, cook until golden brown
-
 
 ### Comments
 
