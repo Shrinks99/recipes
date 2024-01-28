@@ -33,10 +33,12 @@ vegetarian: true
 - 2 teaspoons of Worcestershire sauce
 - 2 tablespoons of balsamic vinegar
 - 1 tablespoon of Dijon mustard
-- 1 teaspoon of oregano
-- 1 teaspoon of cumin 1 heaping tablespoon of chili powder
+- 1 tablespoon of oregano
+- 1 teaspoon of cumin
+- 1 heaping tablespoon of chili powder
 - 1/4 teaspoon of cayenne pepper
-- Fresh ground black pepper
+- Fresh ground black pepper (as much or as little as you want)
+- 1/2 teaspoon of salt
 
 #### Part 4
 
