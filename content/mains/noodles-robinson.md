@@ -42,8 +42,10 @@ Preheat oven to 400°C
 13. Lower heat to 325°C and continue to bake until cooked through, edges may be bubbling slightly. 
 
 ### Comments
-Makes 10 or 12 servings. 
-Leftovers are delicious cold or reheated
+Makes 10 or 12 servings.
+
+Leftovers are delicious cold or reheated.
+
 Freezes well. Defrost completely before baking.
 
 ### Historical Record
