@@ -2,6 +2,7 @@
 title:  ""
 category: ""
 date: YYYY-MM-DD
+recipeYear: YYYY
 author: ""
 prepTime: ""
 cookTime: ""
