@@ -41,7 +41,7 @@ For macOS, install Dart sass with `brew install sass/sass/sass`.  Install Yarn w
 5. In the changes tab, select which file that will be committed to the branch (ie. the recipe)
 6. Write a descriptive commit message if necessary.
 7. Hit the commit button
-8. Hit publish branch button (looks like a tab) to send the updated branch to GitHub
+8. Hit `Publish Branch` button (looks like a tab) to send the updated branch to GitHub
 9. On the [recipes pull requests page](https://github.com/Shrinks99/recipes/pulls), make a new pull request (click button)
 10. Select the new branch as the `compare` branch to merge into the main `base` branch
 11. Note any relevant changes in the description.
