@@ -1,8 +1,8 @@
 ---
-title:  Fresh Apple Cake"
+title:  "Fresh Apple Cake"
 category: "dessert"
 date: 2024-02-06
-recipeYear: YYYY
+recipeYear:
 author: "Grandma (Bunny) Lawrence"
 prepTime: ""
 cookTime: "55-60m"
@@ -45,7 +45,7 @@ Preheat oven to 350°F
 3. Add sugar and eggs.
 4. Beat until creamy at low speed.
 5. Add vanilla.
-6. In a separate bowl, sift flour with salt, baking soda and baking powder.
+6. In a separate bowl, sift flour with salt, baking soda, and baking powder.
 7. Add small amount of flour to creamed mixture, beating well after each addition. 
 8. When all dry ingredients have been added, batter will be stiff.
 9. Remove beaters and fold in pecans and apples.
@@ -55,21 +55,19 @@ Preheat oven to 350°F
 
 #### Icing
 
-1. Place margarine, salt and brown sugar in saucepan. 
+1. Place margarine, salt, and brown sugar in saucepan. 
 2. Heat just enough to melt margarine and mix until sugar dissolves.
 3. Add just enough icing sugar to make enough consistency to spread. 
 
 ### Comments
 
 Bunny Lawrence's comments on the recipe card:
-• very, very good Mother Lawrence
-• chopped pecans (I only had walnuts)
-• apples (delicious) I just used apples I had, no particular kind.
-• dice apples (I hope you have a chopper and a wooden chopping bowl)
-• Here is icing. I never did get it iced. 
+- very, very good Mother Lawrence
+- chopped pecans (I only had walnuts)
+- apples (delicious) I just used apples I had, no particular kind.
+- dice apples (I hope you have a chopper and a wooden chopping bowl)
+- Here is icing. I never did get it iced. 
 
 The recipe was typed with carbon paper. The icing was an addition by Bunny's daughter Barbara, written onto the card in ball point pen. 
 
 Butter can be substituted for margarine 1 to 1 ratio. 
-
-### Historical Record
