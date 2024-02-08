@@ -3,6 +3,7 @@ title:  "Fresh Apple Cake"
 category: "dessert"
 date: 2024-02-06
 recipeYear:
+recipeDecade: 1960s
 author: "Grandma (Bunny) Lawrence"
 prepTime: ""
 cookTime: "55-60m"
@@ -61,13 +62,13 @@ Preheat oven to 350°F
 
 ### Comments
 
-Bunny Lawrence's comments on the recipe card:
+The recipe was typed with carbon paper. The icing was an addition by Bunny's daughter Barbara, written onto the card in ball point pen. 
+
+Butter can be substituted for margarine 1 to 1 ratio.
+
+Grandma Lawrence's comments on the recipe card:
 - very, very good Mother Lawrence
 - chopped pecans (I only had walnuts)
 - apples (delicious) I just used apples I had, no particular kind.
 - dice apples (I hope you have a chopper and a wooden chopping bowl)
 - Here is icing. I never did get it iced. 
-
-The recipe was typed with carbon paper. The icing was an addition by Bunny's daughter Barbara, written onto the card in ball point pen. 
-
-Butter can be substituted for margarine 1 to 1 ratio. 
