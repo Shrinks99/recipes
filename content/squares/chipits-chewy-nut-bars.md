@@ -2,6 +2,8 @@
 title:  "Chipits Chewy Nut Bars"
 category: "squares"
 date: 2023-12-29
+recipeYear:
+recipeDecade:
 author: "The Hershey Company"
 prepTime: "15m"
 cookTime: "35–40m"

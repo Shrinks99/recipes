@@ -2,6 +2,8 @@
 title:  "Best Lemon Squares EVER"
 category: "squares"
 date: 2023-12-28
+recipeYear:
+recipeDecade: 1930s
 author: "Grandma (Bunny) Lawrence"
 prepTime: "20m"
 cookTime: "25–30m"

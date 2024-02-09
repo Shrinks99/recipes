@@ -2,6 +2,8 @@
 title:  "Seven Layer Squares aka (Hello Dollys & Magic Bars)"
 category: "squares"
 date: 2023-12-31
+recipeYear:
+recipeDecade: 1960s
 author: ""
 prepTime: "15m"
 cookTime: "30–35m"

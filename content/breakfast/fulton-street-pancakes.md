@@ -2,6 +2,8 @@
 title:  "Fulton Street Pancakes"
 category: "breakfast"
 date: 2024-01-27
+recipeYear:
+recipeDecade: 2000s
 author: "Joan Simmonds"
 prepTime: "8m"
 cookTime: "10m"

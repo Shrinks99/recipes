@@ -2,6 +2,8 @@
 title:  "Cottage Pudding with Maple Sauce"
 category: "dessert"
 date: 2024-01-01
+recipeYear:
+recipeDecade: 1970s
 author: "Grandma (Bunny) Lawrence"
 prepTime: ""
 cookTime: ""

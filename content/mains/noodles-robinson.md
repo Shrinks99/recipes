@@ -2,6 +2,8 @@
 title:  "Noodles Robinson"
 category: "mains"
 date: 2024-01-28
+recipeYear: 1966
+recipeDecade:
 author: "Edward G. Robinson, via Grandma (Bunny) Lawrence"
 prepTime: ""
 cookTime: "60 min"

@@ -2,7 +2,8 @@
 title:  "Tuna Casserole with Potato Chips"
 category: "main"
 date: 2024-02-04
-recipeYear: 1965
+recipeYear:
+recipeDecade: 1960s
 author: "Grandma (Bunny Lawrence)"
 prepTime: ""
 cookTime: "30m"

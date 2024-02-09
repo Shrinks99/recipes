@@ -2,6 +2,8 @@
 title:  "Chicken Baked with Olives, Lemons, and Capers"
 category: "mains"
 date: 2023-12-26
+recipeYear: 1999
+recipeDecade:
 author: Donna Hay
 prepTime: 10m
 cookTime: 40m
