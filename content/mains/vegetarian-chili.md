@@ -69,3 +69,9 @@ vegetarian: true
 ### Comments
 
 Ladle into bowels and serve with a sliced baguette.
+
+<!-- Yes, it's intentional -->
+
+### Historical Record
+
+Robin started making chili when she went to university in 1983 using the book _Food 101: A Student Guide to Quick and Easy Cooking_. This book was a gift from Mom and Dad (Barbara and Ernest). The recipe has undergone many, many changes over the years as a result of various influences. For a period of time in the late 80s and early 90's it even included a couple of squares of chocolate! The meat ingredient started out as ground beef, and then changed to cubed beef, and then to chicken, and finally tofu in the 2020s when a completely vegetarian recipe was desired. _The Silver Palate Cookbook_ was the inspiration for the addition of dijon mustard and oregano. The addition of corn was strictly because Robin felt like it one day.
