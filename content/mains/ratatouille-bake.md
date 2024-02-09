@@ -2,6 +2,8 @@
 title:  "Ratatouille Bake"
 category: "mains"
 date: 2023-12-27
+recipeYear:
+recipeDecade: 2010s
 author: Donna Acal
 prepTime:
 cookTime: 40m

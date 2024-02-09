@@ -3,6 +3,7 @@ title:  "Chopstick Tuna Casserole"
 category: "main"
 date: 2024-02-04
 recipeYear: 1964
+recipeDecade: 1960s
 author: "Grandma (Bunny) Lawrence"
 prepTime: ""
 cookTime: "15m"

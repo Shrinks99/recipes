@@ -3,6 +3,7 @@ title:  ""
 category: ""
 date: YYYY-MM-DD
 recipeYear: YYYY
+recipeDecade: YYYYs
 author: ""
 prepTime: ""
 cookTime: ""

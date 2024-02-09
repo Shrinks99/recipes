@@ -2,6 +2,8 @@
 title:  "Vegetarian Chili"
 category: "mains"
 date: 2023-12-27
+recipeYear: 2023
+recipeDecade: 2020s
 author: Robin Michel
 prepTime:
 cookTime: 40m
