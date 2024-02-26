@@ -53,7 +53,7 @@ Preheat oven to 350°F
 
 ### Comments
 
-Bunny's granddaughter Robin,  added the lemon glaze to create a "fancier" loaf for hostess gifts or entertaining company, but it is also delicious without it. 
+Bunny's granddaughter Robin, added the lemon glaze to create a "fancier" loaf for hostess gifts or entertaining company, but it is also delicious without it. 
 
 A sprinkling of coarse sugar on the top of the loaf before baking can be nice instead of the glaze. 
 
