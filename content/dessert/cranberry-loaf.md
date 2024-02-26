@@ -2,8 +2,8 @@
 title:  "Cranberry Loaf"
 category: "dessert"
 date: 2024-02-25
-recipeYear: 
-recipeDecade:
+recipeYear: 1998
+recipeDecade: "1990s"
 author: "Grandma (Bunny) Lawrence"
 prepTime: "20m"
 cookTime: "50-60m"
