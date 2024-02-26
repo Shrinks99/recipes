@@ -46,9 +46,9 @@ Preheat oven to 350°F
 5. Transfer the mixture to the loaf pan and bake for 50–60m until a cake tester comes out clean.
 6. Allow to cool.
 7. Mix glaze ingredients together.
-7. When loaf is cool, turn onto wire rack. 
-8. Brush glaze on all sides of loaf.
-9. Keeps well in the refrigerator. 
+8. When loaf is cool, turn onto wire rack. 
+9. Brush glaze on all sides of loaf.
+10. Keeps well in the refrigerator. 
 
 
 ### Comments
