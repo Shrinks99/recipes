@@ -4,7 +4,7 @@ category: "main"
 date: 2024-02-04
 recipeYear:
 recipeDecade: 1960s
-author: "Grandma (Bunny Lawrence)"
+author: "Grandma (Bunny) Lawrence"
 prepTime: ""
 cookTime: "30m"
 vegetarian: false
