@@ -47,3 +47,4 @@ For macOS, install Dart sass with `brew install sass/sass/sass`.  Install Yarn w
 11. Note any relevant changes in the description.
 12. Add Henry as a reviewer
 13. Click the `Create Pull Request` button
+14. After the pull request has been merged, delete the local copy of the branch in GitHub Desktop.
