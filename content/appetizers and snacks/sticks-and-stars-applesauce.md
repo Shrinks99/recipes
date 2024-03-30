@@ -28,16 +28,14 @@ vegetarian: true
 
 1. Cut pears into bit size chunks.
 2. Chop apples.
-3. In a small sauce pan combine pears, apples, lemon juice, sugar, salt, cloves, star anise cinnamon and water. 
+3. In a small sauce pan combine pears, apples, lemon juice, sugar, salt, cloves, star anise cinnamon and water.
 4. Cover and bring to simmer, cook for 10 minutes.
-5. Uncover and continue to cook until pears are very tender and apples break down to make a thick sauce, 12-15 minutes. 
+5. Uncover and continue to cook until pears are very tender and apples break down to make a thick sauce, 12-15 minutes.
 6. Remove cloves, cinnamon, and anise.
-7. Let cool. 
+7. Let cool.
 
 ### Comments
 
 Make 2 cups.
 
-Grandma (Barbara Michel) made this frequently for Henry and Harriet when they were small.  
-
-### Historical Record
+Grandma (Barbara Michel) made this frequently for Henry and Harriet when they were small.
