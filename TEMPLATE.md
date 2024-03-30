@@ -1,7 +1,7 @@
 ---
 title:  ""
 category: ""
-date: YYYY-MM-DD
+date: 1964-11-13
 recipeYear: YYYY
 recipeDecade: YYYYs
 author: ""
