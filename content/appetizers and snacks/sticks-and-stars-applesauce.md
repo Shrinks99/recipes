@@ -26,7 +26,7 @@ vegetarian: true
 
 ### Instructions
 
-1. Cut pears into bit size chunks.
+1. Cut pears into bite sized chunks.
 2. Chop apples.
 3. In a small sauce pan combine pears, apples, lemon juice, sugar, salt, cloves, star anise cinnamon and water.
 4. Cover and bring to simmer, cook for 10 minutes.
