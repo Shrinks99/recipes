@@ -1,7 +1,7 @@
 ---
 title:  "Sticks and Stars Applesauce"
 category: "appetizers and snacks"
-date: 2024-03-30
+date: 2024-03-31
 recipeYear: 
 recipeDecade: 2000s
 author: ""
