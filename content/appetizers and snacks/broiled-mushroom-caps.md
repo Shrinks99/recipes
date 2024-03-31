@@ -1,6 +1,6 @@
 ---
 title:  "Broiled Mushroom Caps"
-category: "appetizers"
+category: "appetizers and snacks"
 date: 2024-03-30
 recipeYear: 
 recipeDecade: 1980s
