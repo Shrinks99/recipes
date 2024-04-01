@@ -32,4 +32,4 @@ Preheat oven to 350°F
 
 ### Comments
 
-When entertaining, before dinner, Barbara Michel served these and the Sweet–Salty Walnuts along with champagne. 
+When entertaining, before dinner, Barbara Michel served these and the [Sweet–Salty Walnuts](../sweet-salty-roasted-walnuts) along with champagne.
