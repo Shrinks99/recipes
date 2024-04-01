@@ -35,7 +35,7 @@ Preheat oven to 350°F
 
 1. Grease and flour 2 8x4–inch loaf pans (or 4 smaller pans) or equivalent.
 2. Sift together the flour, baking powder, baking soda, and salt. 
-3. In a separate, large bowl,or stand-up mixer, cream the butter and sugar. Beat in the orange zest and eggs, 1 at a time. 
+3. In a separate, large bowl, or stand-up mixer, cream the butter and sugar. Beat in the orange zest and eggs, 1 at a time. 
 4. Add the orange juice and milk and beat until mixed thoroughly. It will appear curdled. 
 5. Add the flour mixture and beat until it is just moistened. 
 6. Fold in the apricots, walnuts, and cranberries.
