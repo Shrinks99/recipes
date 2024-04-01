@@ -42,7 +42,7 @@ Preheat oven to 350°F
 7. Spread batter evenly into pans.
 8. Bake for 60m if pans are large (check at 50m), 45m for smaller pans. 
 9. It is done when a cake tester ot toothpick comes out clean. 
-10. Let cool for 5 min, then transfer to a wire rack, to cool completely. 
+10. Let cool for 5 min, then transfer to a wire rack to cool completely. 
 
 
 ### Comments
