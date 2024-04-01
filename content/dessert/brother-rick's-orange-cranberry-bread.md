@@ -3,7 +3,7 @@ title:  "Brother Rick's Orange Cranberry Bread"
 category: "dessert"
 date: 2024-04-01
 recipeYear: 1995
-recipeDecade: 
+recipeDecade: 1990s
 author: "Brother Rick Curry"
 prepTime: "90m"
 cookTime: "45m"
