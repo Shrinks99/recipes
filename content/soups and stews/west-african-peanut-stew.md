@@ -1,6 +1,6 @@
 ---
 title:  "West African Peanut Stew"
-category: "mains"
+category: "soups and stews"
 date: 2024-03-02
 recipeYear: 2014
 recipeDecade: 2010s

@@ -1,6 +1,6 @@
 ---
 title:  "Vegetarian Chili"
-category: "mains"
+category: "soups and stews"
 date: 2023-12-27
 recipeYear: 2023
 recipeDecade: 2020s
