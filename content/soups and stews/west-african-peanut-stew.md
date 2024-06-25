@@ -1,5 +1,5 @@
 ---
-title:  "West African Peanut Stew"
+title: "West African Peanut Stew"
 category: "soups and stews"
 date: 2024-03-02
 recipeYear: 2014

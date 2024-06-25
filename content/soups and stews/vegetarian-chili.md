@@ -1,5 +1,5 @@
 ---
-title:  "Vegetarian Chili"
+title: "Vegetarian Chili"
 category: "soups and stews"
 date: 2023-12-27
 recipeYear: 2023
