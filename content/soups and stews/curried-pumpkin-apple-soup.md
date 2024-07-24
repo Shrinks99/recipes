@@ -1,6 +1,6 @@
 ---
 title:  "Curried Pumpkin Apple Soup"
-category: "mains"
+category: "soups and stews"
 date: 2024-07-24
 recipeYear: 2021
 recipeDecade: 2020s
