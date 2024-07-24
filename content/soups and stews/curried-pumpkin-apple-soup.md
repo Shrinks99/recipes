@@ -42,5 +42,3 @@ vegetarian: false
 ### Comments
 
 Serves 6
-
-### Historical Record
