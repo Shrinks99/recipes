@@ -42,9 +42,3 @@ look.)
 7. Bake for 10-12 mins, or until set. If the cookies don’t flatten out
 completely, when they come out of the oven just press them lightly with a
 spatula.
-
-
-### Comments
-
-
-### Historical Record
