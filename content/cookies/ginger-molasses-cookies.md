@@ -1,11 +1,11 @@
 ---
-title:  "Ginger Molasses Cookies"
+title: "Ginger Molasses Cookies"
 category: "cookies"
 date: 2024-12-23
-recipeYear: YYYY
+recipeYear:
 recipeDecade: 2000s
 author: "Kerry Furneaux"
-prepTime: ""
+prepTime:
 cookTime: "10-12m"
 vegetarian: true
 ---
@@ -15,10 +15,10 @@ vegetarian: true
 - 3/4 cup Golden Crisco shortening
 - 1 cup granulated sugar
 - 1/4 cup molasses
-- 1  egg
+- 1 egg
 - 2 cups all purpose flour
 - 2 tsp baking soda
-- 1 tsp  ground cinnamon
+- 1 tsp ground cinnamon
 - 1/2 tsp ground cloves
 - 1/2 tsp ground ginger
 - 1/4 tsp salt
