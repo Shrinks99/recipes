@@ -24,14 +24,14 @@ vegetarian: true
 
 ### Instructions
 
-1. Cook potatoes in boiling water, in jackets until fork tender
-2. Allow potatoes to cool, then peel
-3. Shred in large bowl (I like large chunks, so I break them up with my fingers)
-4. Mix in salt, pepper and onions
-5. Stir in sour cream and 1 cup of of cheese
-6. Turn into casserole dish
-7. Top with remaining cheese and sprinkle with paprika
-8. Cover and refrigerate for a few hours or even better, overnight
+1. Cook potatoes in boiling water (about 25m for large potatoes), in jackets until fork tender
+2. Allow potatoes to cool, then peel.
+3. Shred in large bowl. (I like large chunks, so I break them up with my fingers)
+4. Mix in salt, pepper and onions.
+5. Stir in sour cream and 1 cup of of cheese.
+6. Turn into casserole dish.
+7. Top with remaining cheese and sprinkle with paprika.
+8. Cover and refrigerate for a few hours or even better, overnight.
 
 Preheat oven to 350°F
 
