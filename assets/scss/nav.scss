@@ -1,0 +1,35 @@
+.nav {
+    background-color: $wgcgray;
+    font-family: $titlefont;
+    width: 100%;
+    padding: 1rem 2rem;
+    color: white;
+    border-bottom: 0.25rem solid black;
+    box-shadow: $wgc-shadow-90;
+    @include mq($from: mobile, $until: tablet) {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+      }
+
+  a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+  }
+
+  img {
+    height: 2.5rem;
+  }
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logobox {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}

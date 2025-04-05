@@ -1,0 +1,19 @@
+baseURL: 'https://wilkinson.graphics/recipes'
+languageCode: 'en-us'
+title: 'Recipes'
+module:
+  mounts:
+    - source: node_modules/inter-ui
+      target: static/fonts/inter-ui
+    - source: favicon.png
+      target: static/favicon.png
+    - source: node_modules/bootstrap-icons/
+      target: static/img/icons/bootstrap
+      excludeFiles: '**'
+      includeFiles: bootstrap-icons.svg
+    - source: assets/img
+      target: static/img
+build:
+  processing:
+    sass:
+      enable: true
