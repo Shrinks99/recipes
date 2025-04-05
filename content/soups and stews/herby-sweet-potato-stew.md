@@ -52,7 +52,7 @@ Add the five-spice and cook for 1 minute, just until it starts to stick to the p
 
 Add the orzo, ~1 cup stock and ~1 cup water. Bring to a boil, then cook for ~25 minutes, undisturbed, until the sweet potatoes have softened and the orzo is cooked through.
 
-#### Steo 3
+#### Step 3
 
 Stir in the parsley, cilantro and dill, and cook for 1 minute more, then remove the pan from the heat.
 
