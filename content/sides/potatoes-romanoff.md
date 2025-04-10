@@ -39,11 +39,11 @@ Preheat oven to 350°F
 
 ### Comments
 
-The potatoes need to be big enough so that the ratio of sour cream to potato doesn't make for a soupy texture. 
+The potatoes need to be big enough so that the ratio of sour cream to potato doesn't make for a soupy texture.
 
 ### Historical Record
 
-[From 12 Tomatoes](https://12tomatoes.com/potatoes-romanoff/): 
+[From 12 Tomatoes](https://12tomatoes.com/potatoes-romanoff/):
 
 > The origin of Potatoes Romanoff can be traced back to the Strip House restaurants in New York and Las Vegas. Chef, John Schenk, created the dish for his restaurant, Strip House, based on the cheesy potato casseroles his mother made when he was growing up. The end result is a like if funeral potatoes got a bit of a makeover.
 
