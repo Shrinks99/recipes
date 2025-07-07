@@ -1,6 +1,6 @@
 ---
 title:  "Tuna Casserole with Potato Chips"
-category: "main"
+category: "mains"
 date: 2024-02-04
 recipeYear:
 recipeDecade: 1960s
@@ -18,6 +18,7 @@ vegetarian: false
 - 10oz of milk (the equivalent of one soup can)
 - 8oz bag of plain potato chips
 - 1 cup grated medium cheddar cheese
+
 ---
 
 ### Instructions
@@ -26,17 +27,17 @@ Preheat oven to 350°C
 
 1. In a large pot cook noodles until just tender. Do not overcook.
 2. Grease a casserole dish.
-3. Drain and flake the tuna to chunks, not too fine. 
+3. Drain and flake the tuna to chunks, not too fine.
 4. Crush potato chips in bag until they are coarse.
 5. Combine soup and milk and mix well.
 6. Layer into casserole dish, starting with a layer of chips, then 1/2 of the noodles, then 1/2 of the tuna.
 7. Pour half the milk and soup mixture over the layers and sprinkle with 1/2 the grated cheese.
-8. Repeat the process and top with a final layer of potato chips. 
+8. Repeat the process and top with a final layer of potato chips.
 9. Bake for 30m
 
 ### Comments
 
-Grandma's recipe is a series of typed instructions without exact quantities. Fortunately Robin remembers making it as a child. Back then, potato chips were sold with two separate white inner bags inside of the outside bag. The recipe used one inner bag. The other bag helped create enthusiasm for dinner making. 
+Grandma's recipe is a series of typed instructions without exact quantities. Fortunately Robin remembers making it as a child. Back then, potato chips were sold with two separate white inner bags inside of the outside bag. The recipe used one inner bag. The other bag helped create enthusiasm for dinner making.
 
 Grandma's recipe did not include peas which appears to be a feature of other versions. Maybe she didn't like peas.
 
@@ -46,6 +47,6 @@ Grandma's recipe called for cream of mushroom soup, but her daughter Barbara use
 
 ### Historical Record
 
-Quaint Cooking For the Love of the Vintage Kitchen has a nice write up about this dish. 
+Quaint Cooking For the Love of the Vintage Kitchen has a nice write up about this dish.
 
-https://quaintcooking.com/2019/09/13/history-of-tuna-noodle-casserole/
+<https://quaintcooking.com/2019/09/13/history-of-tuna-noodle-casserole/>
