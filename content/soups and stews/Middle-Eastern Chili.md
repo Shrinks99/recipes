@@ -3,7 +3,7 @@ title: Middle-Eastern Chili
 category: soups and stews
 date: 2025-08-21
 recipeYear: "2025"
-recipeDecade: 2010s
+recipeDecade: 2020s
 author: Liza Desyatkova
 prepTime: 15m
 cookTime: 30m
