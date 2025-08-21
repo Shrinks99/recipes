@@ -14,7 +14,7 @@ Creates 4 servings
 
 ### Ingredients
 
-- 1/2 cup + 2 tablespoons extra virgin olive oil
+- 1/3 cup of olive oil
 - Rosemary
 - Pinch of red pepper flakes
 - 4–6 garlic cloves
