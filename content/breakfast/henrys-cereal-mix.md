@@ -21,10 +21,10 @@ vegetarian: true
 
 ### Instructions
 
-1. Fill a bowl with half of both cereal types
-2. Top with dried cranberries
-3. Stir until homogenous
-4. Add milk
+1. Fill a bowl with half of both cereal types.
+2. Top with dried cranberries.
+3. Stir until homogenous.
+4. Add milk.
 
 ### Comments
 
