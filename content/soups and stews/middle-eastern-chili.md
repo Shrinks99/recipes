@@ -2,8 +2,8 @@
 title: Middle-Eastern Chili
 category: soups and stews
 date: 2025-08-21
-recipeYear: "2025"
-recipeDecade: 2010s
+recipeYear: 2025
+recipeDecade: 2020s
 author: Liza Desyatkova
 prepTime: 15m
 cookTime: 30m
@@ -23,7 +23,7 @@ vegetarian: true
 - 4 cloves minced garlic
 - 2 tablespoons of olive oil
 - 2 tablespoons chili powder
-- 1 tablespoon curry powder 
+- 1 tablespoon curry powder
 - 1 tablespoon paprika
 - 3 teaspoon dried cumin
 - 2 teaspoons ground coriander
@@ -51,12 +51,12 @@ vegetarian: true
 
 ### Comments
 
-You can skip buying the spices you don't have, it will be delicious either way. 
+You can skip buying the spices you don't have, it will be delicious either way.
 
-Bonus trick: if you have whole cardamom, cloves, or cumin seeds, turn them into powder using a seed grinder, or mortar & pestle. This makes a huge difference in dish fragrance. 
+Bonus trick: if you have whole cardamom, cloves, or cumin seeds, turn them into powder using a seed grinder, or mortar & pestle. This makes a huge difference in dish fragrance.
 
 ### Historical Record
 
-This recipe was adapted for Liza's hardcore camping trip. She referenced an online recipe, with some alterations of removing the meat, and adding more of her favourite spices. 
+This recipe was adapted for Liza's hardcore camping trip. She referenced an online recipe, with some alterations of removing the meat, and adding more of her favourite spices.
 
-This is just normal chili, but with a Mediterranean twist, replacing the classic kidney beans with chickpeas and fava beans. The intoxicating spices will have your guests begging for the recipe after dinner. 
+This is just normal chili, but with a Mediterranean twist, replacing the classic kidney beans with chickpeas and fava beans. The intoxicating spices will have your guests begging for the recipe after dinner.
