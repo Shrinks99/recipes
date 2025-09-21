@@ -45,6 +45,8 @@ Preheat oven to 350°F
 3. Sprinkle remaining crumbs to form the top layer.
 4. Bake for 25-30 min or until just bubbling slightly at the edges.
 
+Chill after baking, serve cold.
+
 ### Comments
 
 This recipe is highly cherished and has won over every family member over four generations. Bunny Lawrence adopted it and passed it down to her daughter Barbara (Michel) and family. Barbara's daughter Robin took over production at a very young age and its a wonder anything made it into the pan. Barbara's son Justin introduced it to his family and his expert baker wife Sabrina created a five layer version!  
