@@ -1,5 +1,5 @@
 ---
-title:  "Fulton Street Pancakes"
+title: "Fulton Street Pancakes"
 category: "breakfast"
 date: 2024-01-27
 recipeYear:
@@ -15,7 +15,7 @@ vegetarian: true
 #### Part 1
 
 - 1 cup flour
-- 3 teaspoons baking powder
+- 1 tablespoon baking powder
 - 1 tablespoon sugar
 - 1/2 teaspoon salt
 - Dash of cinnamon (optional)
