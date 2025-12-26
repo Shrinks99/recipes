@@ -12,7 +12,7 @@ vegetarian: true
 
 ### Ingredients
 
-- 1 cup salter butter, softened
+- 1 cup salted butter, softened
 - 1/2 cup icing sugar
 - 1/2 cup cornstarch
 - 1 cup all-purpose flour
@@ -33,13 +33,13 @@ Preheat oven to 300°F
 
 ### Comments
 
-The ratio of flour to butter makes for a melt in your mouth kind of cookie. Cornstarch and icing sugar help stiffen the dough. 
+The ratio of flour to butter makes for a melt in your mouth kind of cookie. Cornstarch and icing sugar help stiffen the dough.
 
-The un-greased cookie sheet prevents too much spreading. 
+The un-greased cookie sheet prevents too much spreading.
 
-A flat cookie sheets without sides is best for even baking. 
+A flat cookie sheets without sides is best for even baking.
 
-Try to underbake rather than overbake as cookies continue to bake after they are removed from the oven.   
+Try to underbake rather than overbake as cookies continue to bake after they are removed from the oven.
 
 ### Historical Record
 

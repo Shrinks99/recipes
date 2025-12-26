@@ -36,7 +36,8 @@ Preheat oven to 350°F
 #### Crumble
 
 1. In a bowl, mix all dry ingredients well.
-2. Spread 2/3 mixture in an 8x12" greased baking pan and compress well into the bottom of the pan.
+2. Mix dry ingredients with melted butter
+3. Spread 2/3 mixture in an 8x12" greased metal baking pan and compress well into the bottom of the pan.
 
 #### Filling
 
