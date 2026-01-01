@@ -18,7 +18,7 @@ Pie crust
 - 1 teaspoon salt
 - 3–4 tablespoons sugar
 - 1 splash apple cider vinegar (or white vinegar)
-- Ice-cold water (added gradually—just enough to bring dough together)
+- 1/3 cups of ice-cold water 
 
 Apple filling (optional)
 - 5 Granny Smith apples, peeled, cored, and thinly sliced  
@@ -50,8 +50,6 @@ Apple pie (optional)
 
 ### Comments
 
-If you are baking a pie with a liquid filling, such a pumpkin pie, you'll need to blind bake the crust first, and follow seperate instructions accoring to your selected pie type.
-
-Hadas measures with intuition—especially when it comes to water. “Go off vibes,” she says. The key is to keep everything cold and to touch the dough as little as possible. The double-stack folding trick gives beautiful flakes without toughening the dough, and freezing the flour before starting is her secret move for extra crispness.
+The key is to keep everything cold and to touch the dough as little as possible. The double-stack folding trick gives beautiful flakes without toughening the dough, and freezing the flour before starting is her secret move for extra crispness.
 
 ---
