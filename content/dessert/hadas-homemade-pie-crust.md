@@ -13,7 +13,7 @@ vegetarian: true
 ### Ingredients
 
 Pie crust
-- 2 ¼ cups all-purpose flour (chilled in freezer if possible)
+- 2 1/4 cups all-purpose flour (chilled in freezer if possible)
 - 14 tablespoons unsalted butter, cold and cubed
 - 1 teaspoon salt
 - 3–4 tablespoons sugar
@@ -23,7 +23,7 @@ Pie crust
 Apple filling (optional)
 - 5 Granny Smith apples, peeled, cored, and thinly sliced  
 - 2–3 tablespoons sugar  
-- ½ teaspoon cinnamon (just a light sprinkle)  
+- 1/2 teaspoon cinnamon (just a light sprinkle)  
 - Pinch of salt  
 - Small nubs of butter (for dotting the filling)  
 - Optional: a little lemon zest
@@ -51,5 +51,3 @@ Apple pie (optional)
 ### Comments
 
 The key is to keep everything cold and to touch the dough as little as possible. The double-stack folding trick gives beautiful flakes without toughening the dough, and freezing the flour before starting is her secret move for extra crispness.
-
----
